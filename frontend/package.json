@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@alchemy/aa-accounts": "^0.1.1",
+    "@alchemy/aa-core": "^0.1.1",
     "@types/node": "20.2.5",
     "@types/react": "18.2.9",
     "@types/react-dom": "18.2.4",
+    "alchemy-sdk": "^2.10.1",
     "connectkit": "^1.4.0",
     "encoding": "^0.1.13",
     "eslint": "8.42.0",
